@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <tabs>standard-AppLauncher</tabs>
+    <tabs>Data_Feed_Job_Tracker__c</tabs>
+    <tabs>Brand__c</tabs>
+    <tabs>Data_Feed_Mapping__c</tabs>
+    <tabs>Data_Feed_Record__c</tabs>
+    <tabs>External_Data_Import__c</tabs>
+    <tabs>API_Configuration__c</tabs>
+    <tabs>Contract_Extra_Billing_Charge__c</tabs>
+    <tabs>Charge_Type__c</tabs>
+    <tabs>Delete_Undelete_Record__c</tabs>
+</CustomApplication>

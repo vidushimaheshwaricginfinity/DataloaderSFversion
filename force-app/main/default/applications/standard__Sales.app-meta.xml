@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-Campaign</tabs>
+    <tabs>standard-Lead</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-Opportunity</tabs>
+    <tabs>standard-Forecasting3</tabs>
+    <tabs>standard-Contract</tabs>
+    <tabs>standard-Order</tabs>
+    <tabs>standard-Invoice</tabs>
+    <tabs>standard-Case</tabs>
+    <tabs>standard-Solution</tabs>
+    <tabs>standard-Product2</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>Data_Feed_Job_Tracker__c</tabs>
+    <tabs>Brand__c</tabs>
+    <tabs>Data_Feed_Mapping__c</tabs>
+    <tabs>Data_Feed_Record__c</tabs>
+    <tabs>External_Data_Import__c</tabs>
+    <tabs>API_Configuration__c</tabs>
+    <tabs>Contract_Extra_Billing_Charge__c</tabs>
+    <tabs>Charge_Type__c</tabs>
+    <tabs>Delete_Undelete_Record__c</tabs>
+</CustomApplication>
